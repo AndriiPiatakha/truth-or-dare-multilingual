@@ -1,4 +1,4 @@
-# 🎉 Multilingual Truth or Dare API – Global Fun Game for Any Occasion
+# 🎉 Multilingual Truth or Dare FREE API – Global Fun Game for Any Occasion
 
 Bring your app, game, or chatbot to life with endless, original Truth or Dare questions — **customized by vibe, audience, and language**. Perfect for date nights, parties with friends, or fun ice-breakers anywhere in the world.
 
